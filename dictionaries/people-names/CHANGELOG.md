@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.1.9](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-people-names@1.1.8...@cspell/dict-people-names@1.1.9) (2025-04-07)
+
+
+### Updates and Bug Fixes
+
+* Add additional terms to spelling lists from `GoogleCloudPlatform/generative-ai` ([#4013](https://github.com/tlindsay42/cspell-dicts/issues/4013)) ([ed34213](https://github.com/tlindsay42/cspell-dicts/commit/ed342139c37a50c7fd35ea6b15e54947076686c7))
+* Adjust dictionary names ([#3958](https://github.com/tlindsay42/cspell-dicts/issues/3958)) ([8a96533](https://github.com/tlindsay42/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* make it easier to turn off dictionary ([#3940](https://github.com/tlindsay42/cspell-dicts/issues/3940)) ([d9821c6](https://github.com/tlindsay42/cspell-dicts/commit/d9821c66026e122d5718487a8de3c3ff687bf72d))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Update people-names dictionary ([#4004](https://github.com/tlindsay42/cspell-dicts/issues/4004)) ([a81047e](https://github.com/tlindsay42/cspell-dicts/commit/a81047e7d73f16d981227cca331a0de811088162))
+* Workflow Bot -- Build Dictionaries ([#4006](https://github.com/tlindsay42/cspell-dicts/issues/4006)) ([2a7aad6](https://github.com/tlindsay42/cspell-dicts/commit/2a7aad6d22c8540674fa6bb56f0caff43ad1888f))
+* Workflow Bot -- Build Dictionaries ([#4016](https://github.com/tlindsay42/cspell-dicts/issues/4016)) ([ced2e71](https://github.com/tlindsay42/cspell-dicts/commit/ced2e7193013a4011555a690171431d4cab6734f))
+
 ## [1.1.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-people-names@1.1.7...@cspell/dict-people-names@1.1.8) (2025-01-18)
 
 

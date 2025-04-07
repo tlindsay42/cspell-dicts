@@ -1,5 +1,27 @@
 # Change Log
 
+## [2.0.11](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-markdown@2.0.10...@cspell/dict-markdown@2.0.11) (2025-04-07)
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/tlindsay42/cspell-dicts/issues/3958)) ([8a96533](https://github.com/tlindsay42/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Adjust markdown dictionaries ([#3724](https://github.com/tlindsay42/cspell-dicts/issues/3724)) ([af176d0](https://github.com/tlindsay42/cspell-dicts/commit/af176d09eafb4bdd558429c86a3f4b396712124a))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update Markdown dictionary ([#3713](https://github.com/tlindsay42/cspell-dicts/issues/3713)) ([1394c0b](https://github.com/tlindsay42/cspell-dicts/commit/1394c0bf2e2518508470089cabaf1c69260e42c2))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * peerDependencies
+    * @cspell/dict-css bumped to 4.0.18
+    * @cspell/dict-html bumped to 4.0.12
+    * @cspell/dict-html-symbol-entities bumped to 4.0.4
+    * @cspell/dict-typescript bumped to 3.3.0
+
 ## [2.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-markdown@2.0.9...@cspell/dict-markdown@2.0.10) (2025-04-01)
 
 
