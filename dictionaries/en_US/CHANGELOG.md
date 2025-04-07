@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.4.0](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-en_us@4.3.37...@cspell/dict-en_us@4.4.0) (2025-04-07)
+
+
+### Features
+
+* add acronyms for en_us ([#4253](https://github.com/tlindsay42/cspell-dicts/issues/4253)) ([29b5b4e](https://github.com/tlindsay42/cspell-dicts/commit/29b5b4ea84448ae553addb257fec7c9cef022ed8))
+
+
+### Updates and Bug Fixes
+
+* add additional words to en_shared ([#4092](https://github.com/tlindsay42/cspell-dicts/issues/4092)) ([c7e43bc](https://github.com/tlindsay42/cspell-dicts/commit/c7e43bc257e6e09f423bda5e9bd662e3131d0d98))
+* Add back missing English words ([#4119](https://github.com/tlindsay42/cspell-dicts/issues/4119)) ([22126fb](https://github.com/tlindsay42/cspell-dicts/commit/22126fb65d0d2edbb0a627a3a013a988de41bc49))
+* **en_US:** add neglection ([#4051](https://github.com/tlindsay42/cspell-dicts/issues/4051)) ([6be630e](https://github.com/tlindsay42/cspell-dicts/commit/6be630e99f39d51db326e24b8befc124b256fe5c))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3660](https://github.com/tlindsay42/cspell-dicts/issues/3660)) ([4f77f34](https://github.com/tlindsay42/cspell-dicts/commit/4f77f3405be7b3ff3ee0d4118f9f3af2476ee24c))
+* Workflow Bot -- Build Dictionaries ([#3788](https://github.com/tlindsay42/cspell-dicts/issues/3788)) ([17390bc](https://github.com/tlindsay42/cspell-dicts/commit/17390bcd6d457603eddaf62d506a4a2f0f8ae482))
+* Workflow Bot -- Build Dictionaries ([#3843](https://github.com/tlindsay42/cspell-dicts/issues/3843)) ([bfa0e37](https://github.com/tlindsay42/cspell-dicts/commit/bfa0e3768426e06971b517eb4dd26148aece100e))
+* Workflow Bot -- Build Dictionaries ([#3976](https://github.com/tlindsay42/cspell-dicts/issues/3976)) ([92cc01c](https://github.com/tlindsay42/cspell-dicts/commit/92cc01cba7bbfc4b600408507e584442972088b0))
+* Workflow Bot -- Build Dictionaries ([#4019](https://github.com/tlindsay42/cspell-dicts/issues/4019)) ([b116fdc](https://github.com/tlindsay42/cspell-dicts/commit/b116fdcfa5f4e31f652891fd240058d5755e1950))
+* Workflow Bot -- Build Dictionaries ([#4048](https://github.com/tlindsay42/cspell-dicts/issues/4048)) ([edbca9e](https://github.com/tlindsay42/cspell-dicts/commit/edbca9e6445b519d4cb027518d1c47f146214ec9))
+* Workflow Bot -- Build Dictionaries ([#4106](https://github.com/tlindsay42/cspell-dicts/issues/4106)) ([a6ce4a2](https://github.com/tlindsay42/cspell-dicts/commit/a6ce4a2891ecc574423a657f69814a809348f532))
+* Workflow Bot -- Build Dictionaries ([#4147](https://github.com/tlindsay42/cspell-dicts/issues/4147)) ([c28c288](https://github.com/tlindsay42/cspell-dicts/commit/c28c288859fd2c5fe17a10dbc0eb264ec6d14f46))
+* Workflow Bot -- Build Dictionaries ([#4182](https://github.com/tlindsay42/cspell-dicts/issues/4182)) ([2eec6cd](https://github.com/tlindsay42/cspell-dicts/commit/2eec6cda280ea293905f32830dcd19014aaa1293))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/tlindsay42/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/tlindsay42/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/tlindsay42/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/tlindsay42/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/tlindsay42/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/tlindsay42/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-en-shared bumped to 1.0.27
+
 ## [4.3.37](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.36...@cspell/dict-en_us@4.3.37) (2025-04-03)
 
 
