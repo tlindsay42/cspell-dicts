@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.0.0](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-cpp@6.0.7...@cspell/dict-cpp@7.0.0) (2025-04-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add common compound words to cpp dict ([#3761](https://github.com/tlindsay42/cspell-dicts/issues/3761))
+
+### Features
+
+* Add common compound words to cpp dict ([#3761](https://github.com/tlindsay42/cspell-dicts/issues/3761)) ([dbfbcae](https://github.com/tlindsay42/cspell-dicts/commit/dbfbcaef810f4607fb44bddf3f1733d5d1be99e4))
+
+
+### Updates and Bug Fixes
+
+* Add memo and nano to software terms ([#4165](https://github.com/tlindsay42/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/tlindsay42/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* Add more compound words ([#3789](https://github.com/tlindsay42/cspell-dicts/issues/3789)) ([fa141ab](https://github.com/tlindsay42/cspell-dicts/commit/fa141ab70e32e149916fc055fc7853997f060631))
+* Add more compounds to CPP ([#3770](https://github.com/tlindsay42/cspell-dicts/issues/3770)) ([671ccdc](https://github.com/tlindsay42/cspell-dicts/commit/671ccdc0af91eaaf2f4a91249bcd24c08fcf2068))
+* Adjust CPP words ([#3736](https://github.com/tlindsay42/cspell-dicts/issues/3736)) ([aef6353](https://github.com/tlindsay42/cspell-dicts/commit/aef63535911d23657549884ff2c7c72cf50b2210))
+* Adjust dictionary names ([#3958](https://github.com/tlindsay42/cspell-dicts/issues/3958)) ([8a96533](https://github.com/tlindsay42/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* correct 'definition' spellings in cpp.txt ([#4131](https://github.com/tlindsay42/cspell-dicts/issues/4131)) ([51bb994](https://github.com/tlindsay42/cspell-dicts/commit/51bb994b90a19dd05a7c309f75a5620a8d6de1bd))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Remove misspelling `equivelent ` from CPP ([#4226](https://github.com/tlindsay42/cspell-dicts/issues/4226)) ([0958747](https://github.com/tlindsay42/cspell-dicts/commit/09587475e516ee864782abf89f256d1b430618c9))
+* Remove misspelling from cpp dict ([#4111](https://github.com/tlindsay42/cspell-dicts/issues/4111)) ([443473e](https://github.com/tlindsay42/cspell-dicts/commit/443473e150629d6b77c3c91a97a95dbf27ba0d67))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3738](https://github.com/tlindsay42/cspell-dicts/issues/3738)) ([3d89ef2](https://github.com/tlindsay42/cspell-dicts/commit/3d89ef217eccdfc6b609e88859ebe7b5800dfe62))
+* Workflow Bot -- Build Dictionaries ([#3759](https://github.com/tlindsay42/cspell-dicts/issues/3759)) ([3ea113f](https://github.com/tlindsay42/cspell-dicts/commit/3ea113fa887be043b65774c94fd643b3948545dc))
+* Workflow Bot -- Build Dictionaries ([#3771](https://github.com/tlindsay42/cspell-dicts/issues/3771)) ([2cfa1eb](https://github.com/tlindsay42/cspell-dicts/commit/2cfa1ebce68e789285f8bf8f7b3e1402cb4c1b80))
+* Workflow Bot -- Build Dictionaries ([#4113](https://github.com/tlindsay42/cspell-dicts/issues/4113)) ([42d7438](https://github.com/tlindsay42/cspell-dicts/commit/42d74384a16825fd0877bd9f426f1d2133687d79))
+* Workflow Bot -- Build Dictionaries ([#4142](https://github.com/tlindsay42/cspell-dicts/issues/4142)) ([494c36d](https://github.com/tlindsay42/cspell-dicts/commit/494c36d42e908dc8f8d6b55f9c4f3da147942126))
+
 ## [6.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@6.0.6...@cspell/dict-cpp@6.0.7) (2025-04-01)
 
 

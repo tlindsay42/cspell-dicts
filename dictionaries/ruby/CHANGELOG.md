@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.9](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-ruby@5.0.8...@cspell/dict-ruby@5.0.9) (2025-04-07)
+
+
+### Updates and Bug Fixes
+
+* Add memo and nano to software terms ([#4165](https://github.com/tlindsay42/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/tlindsay42/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
 ## [5.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ruby@5.0.7...@cspell/dict-ruby@5.0.8) (2025-03-12)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-la",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Latin dictionary for cspell.",
   "publishConfig": {
     "access": "public",

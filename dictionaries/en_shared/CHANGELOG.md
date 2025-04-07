@@ -1,5 +1,34 @@
 # Change Log
 
+## [1.0.27](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-en-shared@1.0.26...@cspell/dict-en-shared@1.0.27) (2025-04-07)
+
+
+### Updates and Bug Fixes
+
+* Add "succumber", "succumbence", and "succumbency" to the en_shared dictionary to complement the existing. ([#4184](https://github.com/tlindsay42/cspell-dicts/issues/4184)) ([6c17fb1](https://github.com/tlindsay42/cspell-dicts/commit/6c17fb1919846e87bdcef04c40d5733c0365242c))
+* add `unsized` to `en_shared` dictionary ([#4224](https://github.com/tlindsay42/cspell-dicts/issues/4224)) ([aa188f2](https://github.com/tlindsay42/cspell-dicts/commit/aa188f2073ceb58f31aa48630d11ad5358fdd060))
+* add additional words to en_shared ([#4092](https://github.com/tlindsay42/cspell-dicts/issues/4092)) ([c7e43bc](https://github.com/tlindsay42/cspell-dicts/commit/c7e43bc257e6e09f423bda5e9bd662e3131d0d98))
+* Add automotive-related words ([#4244](https://github.com/tlindsay42/cspell-dicts/issues/4244)) ([8112eb8](https://github.com/tlindsay42/cspell-dicts/commit/8112eb8fb2a9d31f344128ed5bb3f7bcd549a547))
+* Add back missing English words ([#4119](https://github.com/tlindsay42/cspell-dicts/issues/4119)) ([22126fb](https://github.com/tlindsay42/cspell-dicts/commit/22126fb65d0d2edbb0a627a3a013a988de41bc49))
+* add leaderboard ([#3787](https://github.com/tlindsay42/cspell-dicts/issues/3787)) ([4f7719c](https://github.com/tlindsay42/cspell-dicts/commit/4f7719c7d05c89b5940e8411f6a0f73bb6940f67))
+* add savviness ([#3842](https://github.com/tlindsay42/cspell-dicts/issues/3842)) ([261e915](https://github.com/tlindsay42/cspell-dicts/commit/261e915b71945aa8eb0dadcc3ee6a5ba02a5bd80))
+* Add words from my project ([#3846](https://github.com/tlindsay42/cspell-dicts/issues/3846)) ([97282e6](https://github.com/tlindsay42/cspell-dicts/commit/97282e6f3e0022e5f527acbb5746a47dbb37d822))
+* add words to dictionary ([#4252](https://github.com/tlindsay42/cspell-dicts/issues/4252)) ([a1b70e1](https://github.com/tlindsay42/cspell-dicts/commit/a1b70e156c63cfe02e6a9d70d614da1894661906))
+* add words to shared-additional-words.txt ([#4145](https://github.com/tlindsay42/cspell-dicts/issues/4145)) ([d61377a](https://github.com/tlindsay42/cspell-dicts/commit/d61377a934835cfb1b6ed2d70fa4a9908d22f739))
+* **en_shared:** buildable ([#4105](https://github.com/tlindsay42/cspell-dicts/issues/4105)) ([5e0544e](https://github.com/tlindsay42/cspell-dicts/commit/5e0544ee55796ee84f479affe3a8080969bdb3d0))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* **shared-additional-words:** haptic/s ([#3659](https://github.com/tlindsay42/cspell-dicts/issues/3659)) ([e33b9e2](https://github.com/tlindsay42/cspell-dicts/commit/e33b9e2948825e138b443fa4f5989c5c2f5082da))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3788](https://github.com/tlindsay42/cspell-dicts/issues/3788)) ([17390bc](https://github.com/tlindsay42/cspell-dicts/commit/17390bcd6d457603eddaf62d506a4a2f0f8ae482))
+* Workflow Bot -- Build Dictionaries ([#4019](https://github.com/tlindsay42/cspell-dicts/issues/4019)) ([b116fdc](https://github.com/tlindsay42/cspell-dicts/commit/b116fdcfa5f4e31f652891fd240058d5755e1950))
+* Workflow Bot -- Build Dictionaries ([#4106](https://github.com/tlindsay42/cspell-dicts/issues/4106)) ([a6ce4a2](https://github.com/tlindsay42/cspell-dicts/commit/a6ce4a2891ecc574423a657f69814a809348f532))
+* Workflow Bot -- Build Dictionaries ([#4147](https://github.com/tlindsay42/cspell-dicts/issues/4147)) ([c28c288](https://github.com/tlindsay42/cspell-dicts/commit/c28c288859fd2c5fe17a10dbc0eb264ec6d14f46))
+* Workflow Bot -- Build Dictionaries ([#4182](https://github.com/tlindsay42/cspell-dicts/issues/4182)) ([2eec6cd](https://github.com/tlindsay42/cspell-dicts/commit/2eec6cda280ea293905f32830dcd19014aaa1293))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/tlindsay42/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/tlindsay42/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/tlindsay42/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/tlindsay42/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/tlindsay42/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/tlindsay42/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+
 ## [1.0.26](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.25...@cspell/dict-en-shared@1.0.26) (2025-04-03)
 
 

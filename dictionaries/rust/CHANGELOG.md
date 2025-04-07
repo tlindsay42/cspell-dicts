@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.12](https://github.com/tlindsay42/cspell-dicts/compare/@cspell/dict-rust@4.0.11...@cspell/dict-rust@4.0.12) (2025-04-07)
+
+
+### Updates and Bug Fixes
+
+* add missing rust terms ([#3804](https://github.com/tlindsay42/cspell-dicts/issues/3804)) ([eb95572](https://github.com/tlindsay42/cspell-dicts/commit/eb95572987fc447638f53c0bb250295489a9ab62))
+* Adjust dictionary names ([#3958](https://github.com/tlindsay42/cspell-dicts/issues/3958)) ([8a96533](https://github.com/tlindsay42/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/tlindsay42/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/tlindsay42/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/tlindsay42/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/tlindsay42/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/tlindsay42/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/tlindsay42/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3805](https://github.com/tlindsay42/cspell-dicts/issues/3805)) ([289644b](https://github.com/tlindsay42/cspell-dicts/commit/289644b6605102db73d68683cb649ba73458364c))
+
 ## [4.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@4.0.10...@cspell/dict-rust@4.0.11) (2024-12-30)
 
 
